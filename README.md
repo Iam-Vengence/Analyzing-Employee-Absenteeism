@@ -1,1 +1,4 @@
 # Analyzing-Employee-Absenteeism
+The objective of this project is to analyze an Employee Absenteeism dataset to understand various aspects of employee absence, identify patterns and reasons, and predict future absenteeism. This will in turn aid in optimizing workforce management, boosting productivity, and creating a more efficient work environment for employees.
+We aim to extract actionable insights from the provided data, concentrating on key areas such as absenteeism patterns across various demographics, frequent reasons for absences, predicting the duration of absence, and identifying employees at risk of high absenteeism.
+The goal of this sprint is to clean the dataset, analyze data regarding absenteeism patterns, reasons for absences, prediction of absence duration, Then summarize the key findings.
